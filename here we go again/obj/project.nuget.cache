@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jQP4HiT4ugvwzYS03OraSnV+f5t595+OiMdvOYLTiNigmbw9AdwyAXE2m7iNHFSfIZwZ39LG/Jkq8Vfdv1ODCw==",
+  "dgSpecHash": "fFgIUM7ywyNcjlozNOksrQmCAhsd8X9CdXr8BAz8ABtzxaBQvj6R8df3ei+ws+RSThzYX5+21b73fCoxcFjoZg==",
   "success": true,
-  "projectFilePath": "/Users/romanbayramov/Projects/here we go again/here we go again/here we go again.csproj",
+  "projectFilePath": "/Users/romanbayramov/Documents/GitHub/MyFirstRepo/here we go again/here we go again.csproj",
   "expectedPackageFiles": [
     "/Users/romanbayramov/.nuget/packages/microsoft.build.tasks.git/1.1.1/microsoft.build.tasks.git.1.1.1.nupkg.sha512",
     "/Users/romanbayramov/.nuget/packages/microsoft.sourcelink.common/1.1.1/microsoft.sourcelink.common.1.1.1.nupkg.sha512",

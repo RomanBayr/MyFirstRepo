@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/romanbayramov/Projects/here we go again/here we go again/here we go again.csproj": {}
+    "/Users/romanbayramov/Documents/GitHub/MyFirstRepo/here we go again/here we go again.csproj": {}
   },
   "projects": {
-    "/Users/romanbayramov/Projects/here we go again/here we go again/here we go again.csproj": {
+    "/Users/romanbayramov/Documents/GitHub/MyFirstRepo/here we go again/here we go again.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/romanbayramov/Projects/here we go again/here we go again/here we go again.csproj",
+        "projectUniqueName": "/Users/romanbayramov/Documents/GitHub/MyFirstRepo/here we go again/here we go again.csproj",
         "projectName": "here we go again",
-        "projectPath": "/Users/romanbayramov/Projects/here we go again/here we go again/here we go again.csproj",
+        "projectPath": "/Users/romanbayramov/Documents/GitHub/MyFirstRepo/here we go again/here we go again.csproj",
         "packagesPath": "/Users/romanbayramov/.nuget/packages/",
-        "outputPath": "/Users/romanbayramov/Projects/here we go again/here we go again/obj/",
+        "outputPath": "/Users/romanbayramov/Documents/GitHub/MyFirstRepo/here we go again/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/romanbayramov/.nuget/NuGet/NuGet.Config"
